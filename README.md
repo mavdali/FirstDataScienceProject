@@ -10,8 +10,8 @@ and try to predict their market value and scored goals using Machine Learning wi
 
 # Data Mining & Sources
 * Gathering information using Crawling & API
-* FifaIndex.com
-* Understat.com
+* [FifaIndex.com](www.fifaindex.com)
+* [Understat.com](www.understat.com)
 * Concat all information to one database
 
 # Data Cleaning & Optimizing
