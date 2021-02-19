@@ -1,7 +1,7 @@
 First Data Science Project
-# Football players market value analyzation &amp; prediction using Machine Learning
+# Football player's market value analyzation &amp; prediction using Machine Learning
 
-## Check out our project presentation!
+### Check out our project presentation!
 
 
 
